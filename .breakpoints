@@ -1,0 +1,36 @@
+{
+  "files": {
+    "src/components/TheHeader.vue": [
+      {
+        "id": "2f900220-82cb-4589-9c27-97e8b67b5325",
+        "line": 35,
+        "version": 440,
+        "index": 1060
+      }
+    ],
+    "src/main.js": [
+      {
+        "id": "7a2754a1-1be4-488a-8382-2fe46b21b480",
+        "line": 3,
+        "version": 317,
+        "index": 53
+      }
+    ],
+    "src/views/TheBody.vue": [
+      {
+        "id": "ea8b6056-61af-4ca6-af24-d0fb36f34261",
+        "line": 31,
+        "version": 4550,
+        "index": 1101
+      }
+    ],
+    "src/views/TheMenu.vue": [
+      {
+        "id": "d50279df-6351-4f13-b4a2-8d33d615f5be",
+        "line": 59,
+        "version": 382,
+        "index": 2176
+      }
+    ]
+  }
+}
