@@ -3,7 +3,7 @@
   import { RouterLink } from 'vue-router'
 </script>
 <template>
-  <header class="pb-6 shadow-xl bg-gradient-to-r from-orange-400 to-orange-500">
+  <header class="pb-6 shadow-xl bg-gradient-to-r from-orange-400 to-orange-500 mr-6 ml-6">
      <div class="text-center font-bold text-white text-2xl m-auto pt-16">
     <h1 class="md:text-lg sm:text-lg">CODE WITH PAUL RESTAURANT</h1>
   </div>
@@ -100,7 +100,7 @@ If you need you next project to look professional this is the place to go.</p>
 
 
    
-  <div class="mb-4 mr-6 ml-6 px-2 w-full gap-4 pt-16 bg-white items-center justify-center">
+  <div class="mb-4 ml-6 px-2 w-full gap-4 pt-16 bg-white items-center justify-center mr-6">
     <div class="p-2 space-y-3">
       <div class="flex items-center justify-center pl-4 space-x-2 my-4">
    <div class="w-14 h-[2px] bg-orange-500"></div>
