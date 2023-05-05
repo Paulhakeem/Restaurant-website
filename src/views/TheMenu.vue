@@ -81,7 +81,7 @@
          </tr>
         <tr class="border-b hover:bg-gray-50">
             <td class="p-4">
-              <img class=" text-center block w-8 h-8 rounded-full " src="../src/assets/facebook.svg">
+              <img class=" text-center block w-8 h-8 rounded-full " src="">
             </td>
             <td class="p-4">
                <p><span class="font-bold">Chicken Masala</span> <br/>Now in V3, you can do this fancy syntax too. If you prefer not to use inline styles and have a single-use image then this is the best approach.</p>
